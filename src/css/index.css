@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    padding:0px;
+
+}
+header{
+    border:solid 1px;
+}
+header .logo{
+    float:left;
+}
+nav{
+    border: solid 1px;
+    display: flex;
+    flex-direction: row ;
+    justify-content: center;
+}
